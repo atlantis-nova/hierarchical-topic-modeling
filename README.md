@@ -3,7 +3,7 @@ Implementation of hierarchical topic modeling with non-parametric depth estimati
 <br>
 Source: https://medium.com/plain-simple-software/introducing-hierarchical-topic-modeling-with-non-parametric-depth-estimation-d6fd2145f007
 
-### To cite:
-Algorithm: hierarchical topic modeling with non-parametric depth estimation
-Author: Michelangiolo Mazzeschi
-Published: 6th April 2024
+## **Please cite**
+**Algorithm:** hierarchical topic modeling with non-parametric depth estimation <br>
+**Author:** Michelangiolo Mazzeschi <br>
+**Published:** 6th April 2024
